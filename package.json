@@ -1,0 +1,13 @@
+{
+    "version": "0.1.0",
+    "name": "com.ios.cordova-idfa",
+    "cordova_name": "Cordova IDFA",
+    "description": "Cordova plugin to retrieve Identifier for Advertisers (IDFA)",
+    "license": "Apache 2.0 License",
+    "engines": [
+        {
+            "name": "cordova",
+            "version": ">=2.9.0"
+        }
+    ]
+}
