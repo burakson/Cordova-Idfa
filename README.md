@@ -20,7 +20,7 @@ Install with Phonegap cli
     
 #### Usage
 
-* Add AddSupport.framework to the Linked Frameworks in Xcode
+* Add AdSupport.framework to the Linked Frameworks in Xcode
 
 * After getting deviceReady event;
 
